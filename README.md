@@ -16,10 +16,13 @@ Welcome to my HackerRank solutions repository! 🚀 Here, you'll find my solutio
 
 Feel free to explore the solutions, learn from them, and provide feedback or improvements!
 
+## My HackerRank Profile
+
+Check out my HackerRank profile: [Your HackerRank Profile](https://www.hackerrank.com/profile/aryangupta0001)
+
 ## Directory Structure
 
 The repository is organized by HackerRank domains and subdomains. Each challenge has its own directory named after the challenge title, and within each directory, you'll find the solution file(s) and any necessary supporting files.
-
 
 ## Getting Started
 
@@ -36,7 +39,7 @@ Open the solution file using a text editor or an integrated development environm
 
 Feel free to use the solutions as a reference or to enhance your understanding of various problem-solving techniques.
 
-Contributing
+## Contributing
 If you'd like to contribute or suggest improvements:
 
 Fork the repository.
@@ -45,7 +48,7 @@ Make your contributions.
 Submit a pull request with a clear description of your changes.
 I welcome contributions in the form of new solutions, optimizations, or better explanations!
 
-License
+## License
 This project is licensed under the MIT License. Feel free to use the code, contribute, or share it with others.
 
 Happy Coding! 🚀
