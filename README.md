@@ -18,7 +18,7 @@ Feel free to explore the solutions, learn from them, and provide feedback or imp
 
 ## My HackerRank Profile
 
-Check out my HackerRank profile: [Your HackerRank Profile](https://www.hackerrank.com/profile/aryangupta0001)
+Check out my HackerRank profile: [Aryan Gupta](https://www.hackerrank.com/profile/aryangupta0001)
 
 ## Directory Structure
 
